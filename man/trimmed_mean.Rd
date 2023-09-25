@@ -13,6 +13,9 @@ trimmed_mean(x, l, s)
 
 \item{s}{the s smallerst values}
 }
+\value{
+The trimmed mean of the numeric vector
+}
 \description{
 Calculate a trimmed mean for a numeric vector
 }

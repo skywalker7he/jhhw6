@@ -2,6 +2,7 @@
 #' @export
 #' @param height a numeric value of the height of a right triangle
 #' @param base a numeric value of the base of a right triangle
+#' @return The length of the hypotenuse of the right triangle
 
 get_hypotenuse_length <- function(height, base) {
   # Concatenate values of the two argues to a vector

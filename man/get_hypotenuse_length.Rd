@@ -11,6 +11,9 @@ get_hypotenuse_length(height, base)
 
 \item{base}{a numeric value of the base of a right triangle}
 }
+\value{
+The length of the hypotenuse of the right triangle
+}
 \description{
 Calculate the length of the hypotenuse of a right triangle
 }
