@@ -17,3 +17,6 @@ The length of the hypotenuse of the right triangle
 \description{
 Calculate the length of the hypotenuse of a right triangle
 }
+\examples{
+get_hypotenuse_length(3, 4)
+}
