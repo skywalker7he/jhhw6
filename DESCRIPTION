@@ -3,7 +3,6 @@ Type: Package
 Title: BIOS 524 Homework 6
 Version: 0.1.0
 Authors@R: person("Jian", "He", email = "hej7@vcu.edu", role = c("auc", "cre"))
-Maintainer: The package maintainer <yourself@somewhere.net>
 Description: To fulfill homework requirements
 Depends: R (>= 4.0.0)
 License: GPL-3
