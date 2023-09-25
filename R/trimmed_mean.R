@@ -4,6 +4,8 @@
 #' @param l the l largest values
 #' @param s the s smallerst values
 #' @return The trimmed mean of the numeric vector
+#' @examples
+#' trimmed_mean(c(1, 7, 3, 2, 5, 0.5, 9, 10), 1, 2)
 
 trimmed_mean <- function(x, l, s) {
   if (any(!is.numeric(x), !is.numeric(c(l, s)))) {

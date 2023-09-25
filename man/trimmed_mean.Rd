@@ -19,3 +19,6 @@ The trimmed mean of the numeric vector
 \description{
 Calculate a trimmed mean for a numeric vector
 }
+\examples{
+trimmed_mean(c(1, 7, 3, 2, 5, 0.5, 9, 10), 1, 2)
+}
