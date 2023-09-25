@@ -2,3 +2,5 @@
 To fulfill homework requirements
 
 Two R functions, get_hypotenuse_length and trimmed_mean, are available
+
+![](what-dot-git-contains.png)
