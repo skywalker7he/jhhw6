@@ -1,4 +1,6 @@
 #' Calculate a trimmed mean for a numeric vector
+#' @importFrom utils head
+#' @importFrom utils tail
 #' @export
 #' @param x a numeric vector
 #' @param l the l largest values

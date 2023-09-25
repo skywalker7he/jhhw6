@@ -2,3 +2,5 @@
 
 export(get_hypotenuse_length)
 export(trimmed_mean)
+importFrom(utils,head)
+importFrom(utils,tail)
